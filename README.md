@@ -5,9 +5,12 @@ Within this repository is the workflow for building a Predictive Model for Movie
 
 The repository organization is as follows:
 
-At the root of the repository are the notebooks and necessary resources for their operation that are not databases, in our case, notebooks and the pre-trained GloVe model.
-In the input folder, we have the dataset subfolder containing the datasets provided by the SPE, and also within the input folder, we have the databases constructed by the notebooks that will be used by the predictive model notebooks.
-In the output folder, we have the two output files for genre inference for the test dataset provided by the SPE.
+
+- At the root of the repository are the notebooks and necessary resources for their operation that are not databases, in our case, notebooks and the pre-trained GloVe model.
+- In the input folder, we have the dataset subfolder containing the datasets provided by the SPE, and also within the input folder, we have the databases constructed by the notebooks that will be used by the predictive model notebooks.
+- In the output folder, we have the two output files for genre inference for the test dataset provided by the SPE.
+
+
 The draft below demonstrates the workflow and the components of this repository.
 
 ![image](https://github.com/cmatos17/SPE_Showcase_GenrePredict/assets/43851217/13706266-176a-4e58-a144-17d0cdfa72bd)
