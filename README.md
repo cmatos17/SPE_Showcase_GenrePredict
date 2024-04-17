@@ -1,7 +1,7 @@
 # SPE_Showcase_GenrePredict
 Repository for the SPE Data Science Showcase
 
-*Important: After the clone, remeber to change your path inside the notebooks to avoid issus with file paths.
+*Important:* After the clone, remeber to change your path inside the notebooks to avoid issus with file paths.
 
 Within this repository is the workflow for building a Predictive Model for Movie Genres from a dataset extracted from the IMDB platform.
 
