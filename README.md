@@ -3,7 +3,7 @@ Repository for the SPE Data Science Showcase
 
 Within this repository is the workflow for building a Predictive Model for Movie Genres from a dataset extracted from the IMDB platform.
 
-** The evaluation criteria are present in the following notebooks:** 
+**The evaluation criteria are present in the following notebooks:** 
 
 1. Exploratory Data Analysis (EDA):
    - 1-IMDB_EDA_Database.ipynb
@@ -26,3 +26,9 @@ Within this repository is the workflow for building a Predictive Model for Movie
 The draft below demonstrates the workflow and the components of this repository.
 
 ![image](https://github.com/cmatos17/SPE_Showcase_GenrePredict/assets/43851217/13706266-176a-4e58-a144-17d0cdfa72bd)
+
+
+## Next Steps:
+
+Our way of working on the problem was by developing two models based on different learning structures to test the performance of at least two different predictors. After that, the next step would be to assemble or stack them. 
+Unfortunately, there was not enough time to develop and demonstrate this technique.
